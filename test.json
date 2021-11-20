@@ -1,0 +1,55 @@
+{
+  "persona": [
+    {
+      "name": "antonio rodrigez",
+      "domicilio": "Pino Chico Nº33",
+      "tel": 3452359,
+      "birthdate": "1676,12,12",
+      "id": 2
+    },
+    {
+      "name": "jorge merlín",
+      "domicilio": "Pino Grande Nº335",
+      "tel": 4564563,
+      "birthdate": "1675,01,02",
+      "id": 3
+    },
+    {
+      "name": "jorge merlín",
+      "domicilio": "Pino Grande Nº335",
+      "tel": 4564563,
+      "birthdate": "1675,01,02",
+      "id": 4
+    },
+    {
+      "name": "jorge merlín",
+      "domicilio": "Pino Grande Nº335",
+      "tel": 4564563,
+      "birthdate": "1675,01,02",
+      "id": 5
+    },
+    {
+      "name": "jorge merlín",
+      "domicilio": "Pino Grande Nº335",
+      "tel": 4564563,
+      "birthdate": "1675,01,02",
+      "id": 6
+    }
+  ],
+  "cliente": [
+    {
+      "id": 1,
+      "personaId": 4,
+      "descuento": 0.2,
+      "fecultcompra": "1692,11,12"
+    }
+  ],
+  "empleado": [
+    {
+      "id": 1,
+      "personaId": 1,
+      "puesto": "gerente general",
+      "comisionporvta": 0.4
+    }
+  ]
+}
